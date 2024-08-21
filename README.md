@@ -1,12 +1,12 @@
-# CakePHP AdminLTE Theme (2.0.0)
+# CakePHP AdminLTE Theme (3.0.0)
 
 **What's the news**
 
-The AdminLTE was updated version to 2.4.5.
+The AdminLTE was updated version to 3.0.0.
 
-The CakePHP was updated version compatible to 4.0.0.
+The CakePHP was updated version compatible to 5.x.
 
-This release 2.0.0 is can be considered the stable version, as indicated in the [SemVer.org](https://semver.org/) recommendations.
+This release 3.0.0 is can be considered the stable version, as indicated in the [SemVer.org](https://semver.org/) recommendations.
 
 ### Installation
 
